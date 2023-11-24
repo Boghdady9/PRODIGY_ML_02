@@ -38,6 +38,7 @@ The project will follow the following steps:
 ## 8. Conclusion
 - **How many clusters are there?**  
   a) 5
+  ![Silhouette Analysis](silhouette.png)
 
 - **Which cluster has the highest spending score?**  
   a) Cluster 1
