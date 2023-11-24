@@ -38,7 +38,8 @@ The project will follow the following steps:
 ## 8. Conclusion
 - **How many clusters are there?**  
   a) 5
-  ![silhoutte]:(images/silhouette.png)
+  ![silhouette](https://github.com/Boghdady9/Customer-Mall-Segmentation/assets/100009172/710eb89d-3a23-416f-9d3d-ee5598d1990c)
+
 
 - **Which cluster has the highest spending score?**  
   a) Cluster 1
