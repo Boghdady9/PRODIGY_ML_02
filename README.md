@@ -38,7 +38,7 @@ The project will follow the following steps:
 ## 8. Conclusion
 - **How many clusters are there?**  
   a) 5
-  [silhoutte]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/Boghdady9/Customer-Mall-Segmentation/blob/main/images/silhouette.png) "silhoutte score"(silhouette.png)
+  [silhoutte]: https://github.com/Boghdady9/Customer-Mall-Segmentation/blob/main/images/silhouette.png "silhoutte score"(silhouette.png)
 
 - **Which cluster has the highest spending score?**  
   a) Cluster 1
