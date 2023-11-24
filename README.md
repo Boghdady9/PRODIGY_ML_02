@@ -53,3 +53,5 @@ The project will follow the following steps:
 - **Which cluster has the lowest spending score?**  
   a) Cluster 3
 
+![output](https://github.com/Boghdady9/Customer-Mall-Segmentation/assets/100009172/274ba977-67a0-40a2-a02a-5266df8942d8)
+
